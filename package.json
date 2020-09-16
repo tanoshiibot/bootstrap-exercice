@@ -1,0 +1,25 @@
+{
+  "name": "bootstrap-exercice",
+  "version": "1.0.0",
+  "description": "exercice bootstrap",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanoshiibot/bootstrap-exercice.git"
+  },
+  "author": "Olivia Fantinel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanoshiibot/bootstrap-exercice/issues"
+  },
+  "homepage": "https://github.com/tanoshiibot/bootstrap-exercice#readme",
+  "dependencies": {
+    "@popperjs/core": "^2.4.4",
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  }
+}
