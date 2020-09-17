@@ -1,7 +1,23 @@
-main, p{
+.salmon{
     background-color: darksalmon;
     border-style: solid;
     border-width: 2px; 
     border-radius: 3px;
+}
+
+.max{
+    width:100%;;
+}
+
+*{
+    text-align: center;
+}
+
+ul{
+    list-style: none;
+}
+
+section{
+    margin: 20px 0 20px 0;
 }
 
